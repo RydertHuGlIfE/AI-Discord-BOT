@@ -43,10 +43,6 @@ This Discord bot leverages the Gemini API to provide an interactive chat experie
 
 Once the bot is running, you can add it to your Discord server and use the commands listed above.  Remember that slash commands might need to be synced with your server after the bot starts. The code already includes a sync command, but you may need to run it manually if you encounter issues.
 
-## Developer
-
-This bot is developed by `__ryder__2001__`.
-
 ## Contributing
 
 Contributions are welcome! Feel free to submit pull requests or open issues.
